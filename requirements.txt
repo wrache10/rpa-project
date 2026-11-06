@@ -1,3 +1,7 @@
-import openpyxl
-import pandas as pd
-from analyticskit import *
+openpyxl
+pandas
+analyticskit
+os
+smtplib
+mimetypes
+email.message
