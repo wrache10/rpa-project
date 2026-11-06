@@ -1,7 +1,3 @@
 openpyxl
 pandas
 analyticskit
-os
-smtplib
-mimetypes
-email.message
